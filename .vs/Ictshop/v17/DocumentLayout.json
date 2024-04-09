@@ -1,0 +1,775 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET104_C#4\\ASM\\asm_net104\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|d:\\net104_c#4\\asm\\asm_net104\\ictshop\\models\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\models\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\danhmuc\\danhmucpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\danhmuc\\danhmucpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\donhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\donhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\controllers\\phanquyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\controllers\\phanquyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NET104_C#4\\10_PS29429_NGUYENTHANHTHAI_LAB8\\Lab8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\home\\slidepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\home\\slidepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\thongkes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\thongkes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\nguoidungs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\nguoidungs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\hangsanxuats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\hangsanxuats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\hedieuhanhs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\hedieuhanhs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\sanpham\\dtxiaomipartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\sanpham\\dtxiaomipartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\sanpham\\dtsamsungpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\sanpham\\dtsamsungpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\user\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\user\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\sanpham\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\sanpham\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\models\\sysdiagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\models\\sysdiagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\controllers\\nguoidungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\controllers\\nguoidungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\migrations\\202107271655114_addthanhtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\migrations\\202107271655114_addthanhtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\hinhanhsp\\banner.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\hinhanhsp\\banner.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\user\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\user\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\views\\sanpham\\dtiphonepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\sanpham\\dtiphonepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\NET104_C#4\\ASM\\asm_net104\\ictshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thongke.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\Thongke.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Models\\Thongke.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\Thongke.cs",
+              "RelativeToolTip": "Ictshop\\Models\\Thongke.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:28:18.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Donhangs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Donhangs\\Create.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Donhangs\\Create.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Donhangs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T12:26:41.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhmucPartial.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:24:57.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:18:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:20:01.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:19:59.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAEQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:43:46.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:07:29.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhanQuyensController.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Controllers\\PhanQuyensController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\PhanQuyensController.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Controllers\\PhanQuyensController.cs",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Controllers\\PhanQuyensController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAADUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:40:06.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\GioHang\\GioHang.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\GioHang\\GioHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:07:15.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DanhmucController.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Controllers\\DanhmucController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\DanhmucController.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Controllers\\DanhmucController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\DanhmucController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:44:16.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\10_PS29429_NGUYENTHANHTHAI_LAB8\\Lab8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\10_PS29429_NGUYENTHANHTHAI_LAB8\\Lab8\\Program.cs",
+              "ToolTip": "D:\\NET104_C#4\\10_PS29429_NGUYENTHANHTHAI_LAB8\\Lab8\\Program.cs",
+              "RelativeToolTip": "..\\..\\10_PS29429_NGUYENTHANHTHAI_LAB8\\Lab8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:43:17.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SlidePartial.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Home\\SlidePartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\SlidePartial.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Home\\SlidePartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Home\\SlidePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T10:58:23.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAPsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:48:18.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:44:25.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Donhangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Donhangs\\Index.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Donhangs\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Donhangs\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:25:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:42:15.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Create.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Create.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Create.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:49:47.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Models\\GioHang.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\GioHang.cs",
+              "RelativeToolTip": "Ictshop\\Models\\GioHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:09:15.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThanhToanDonHang.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:27:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Delete.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Delete.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:42:33.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Hangsanxuats\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Hangsanxuats\\Index.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Hangsanxuats\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Hangsanxuats\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAABSwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:42:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Nguoidungs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Nguoidungs\\Index.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Nguoidungs\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Nguoidungs\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAABSwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:43:20.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAABYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:41:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Donhangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Donhangs\\Details.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Donhangs\\Details.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Donhangs\\Details.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:25:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:51:44.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dtsamsungpartial.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Sanpham\\dtsamsungpartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Sanpham\\dtsamsungpartial.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Sanpham\\dtsamsungpartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Sanpham\\dtsamsungpartial.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:07:12.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Index.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:48:08.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SanphamsController.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Controllers\\SanphamsController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\SanphamsController.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Controllers\\SanphamsController.cs",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Controllers\\SanphamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:11:04.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dtxiaomipartial.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Sanpham\\dtxiaomipartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Sanpham\\dtxiaomipartial.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Sanpham\\dtxiaomipartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Sanpham\\dtxiaomipartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:06:56.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:11:56.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dangnhap.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\User\\Dangnhap.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\User\\Dangnhap.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\User\\Dangnhap.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\User\\Dangnhap.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:12:16.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "xemchitiet.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Sanpham\\xemchitiet.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Sanpham\\xemchitiet.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Sanpham\\xemchitiet.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Sanpham\\xemchitiet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:19:47.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Chitietdonhang.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\Chitietdonhang.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Models\\Chitietdonhang.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\Chitietdonhang.cs",
+              "RelativeToolTip": "Ictshop\\Models\\Chitietdonhang.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:07:44.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sanpham.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\Sanpham.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Models\\Sanpham.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\Sanpham.cs",
+              "RelativeToolTip": "Ictshop\\Models\\Sanpham.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:06:01.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "sysdiagrams.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\sysdiagrams.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Models\\sysdiagrams.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\sysdiagrams.cs",
+              "RelativeToolTip": "Ictshop\\Models\\sysdiagrams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:41:13.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NguoidungsController.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Controllers\\NguoidungsController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\NguoidungsController.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Controllers\\NguoidungsController.cs",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Controllers\\NguoidungsController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAIA3wHwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:51:44.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "202107271655114_AddThanhtien.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Migrations\\202107271655114_AddThanhtien.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Migrations\\202107271655114_AddThanhtien.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Migrations\\202107271655114_AddThanhtien.cs",
+              "RelativeToolTip": "Ictshop\\Migrations\\202107271655114_AddThanhtien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:41:33.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "banner.png",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\HinhanhSP\\banner.png",
+              "RelativeDocumentMoniker": "Ictshop\\HinhanhSP\\banner.png",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\HinhanhSP\\banner.png",
+              "RelativeToolTip": "Ictshop\\HinhanhSP\\banner.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-07T07:00:23.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAABiwBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:12:25.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\User\\Profile.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\User\\Profile.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:12:06.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Edit.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Edit.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:48:09.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\User\\Test.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\User\\Test.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\User\\Test.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\User\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:12:05.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ThongkesController.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Controllers\\ThongkesController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\ThongkesController.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Areas\\Admin\\Controllers\\ThongkesController.cs",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Controllers\\ThongkesController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T06:10:31.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:08:56.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dtiphonePartial.cshtml",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Sanpham\\dtiphonePartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Sanpham\\dtiphonePartial.cshtml",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Views\\Sanpham\\dtiphonePartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Sanpham\\dtiphonePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:07:09.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Nguoidung.cs",
+              "DocumentMoniker": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\Nguoidung.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Models\\Nguoidung.cs",
+              "ToolTip": "D:\\NET104_C#4\\ASM\\asm_net104\\Ictshop\\Models\\Nguoidung.cs",
+              "RelativeToolTip": "Ictshop\\Models\\Nguoidung.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:39:54.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
